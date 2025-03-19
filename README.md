@@ -2,4 +2,5 @@
 
 ### Preview
 
-https://github.com/AbhijitMotekar99/Pokedex/blob/main/src/assets/pokemon%20record.mp4
+https://github.com/user-attachments/assets/60eaf2c4-63ce-48c3-abac-d2f956cbf289
+
